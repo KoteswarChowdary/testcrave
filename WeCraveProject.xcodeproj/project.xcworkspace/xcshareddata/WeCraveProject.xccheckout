@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>540A9C28-7E84-4799-B2B5-909E293B83A0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WeCraveProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D5EDED8C79CF1153F14B63D0F5AFAA46090E6DBC</key>
+		<string>https://github.com/KoteswarChowdary/testcrave.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WeCraveProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D5EDED8C79CF1153F14B63D0F5AFAA46090E6DBC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KoteswarChowdary/testcrave.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D5EDED8C79CF1153F14B63D0F5AFAA46090E6DBC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5EDED8C79CF1153F14B63D0F5AFAA46090E6DBC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
